@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T13:20:03.119Z",
+  "updatedAt": "2026-10-29T19:11:51.543Z",
   "categories": [
     {
       "id": "ai",
@@ -180,8 +180,8 @@
         "readysettech/readyset",
         "cheatsnake/backend-cheats",
         "prest/prest",
-        "hoodiehq/hoodie",
         "Fractal-Compute-Orchestrations/FractalCore",
+        "hoodiehq/hoodie",
         "goldbergyoni/nodejs-testing-best-practices",
         "apache/lucene-solr",
         "EasyCorp/EasyAdminBundle",
@@ -328,7 +328,7 @@
         "sqlitebrowser/sqlitebrowser",
         "sinaptik-ai/pandas-ai",
         "Vonng/ddia",
-        "beekeeper-studio/beekeeper-studio",
+        "vanna-ai/vanna",
         "Snailclimb/JavaGuide",
         "Developer-Y/cs-video-courses",
         "binhnguyennus/awesome-scalability",
@@ -411,8 +411,8 @@
         "vsouza/awesome-ios",
         "expo/expo",
         "ionic-team/ionic-framework",
-        "sudheerj/reactjs-interview-questions",
         "Gathin23/cleanyourtv",
+        "sudheerj/reactjs-interview-questions",
         "sxyazi/yazi",
         "SheetJS/sheetjs",
         "raysan5/raylib",
@@ -640,8 +640,8 @@
         "leereilly/games",
         "cocos2d/cocos2d-x",
         "kitao/pyxel",
-        "aframevr/aframe",
         "OpenRA/OpenRA",
+        "aframevr/aframe",
         "ellisonleao/magictools",
         "playcanvas/engine",
         "MonoGame/MonoGame",
@@ -666,8 +666,8 @@
         "FlaxEngine/FlaxEngine",
         "renpy/renpy",
         "BoomingTech/Piccolo",
-        "melonjs/melonJS",
         "defold/defold",
+        "melonjs/melonJS",
         "Redot-Engine/redot-engine",
         "godotengine/godot-docs",
         "freeCodeCamp/freeCodeCamp",
@@ -755,8 +755,8 @@
         "dgtlmoon/changedetection.io",
         "NandhaKishorM/laya",
         "yeasy/docker_practice",
-        "lensapp/lens",
-        "laoma528/awesome-zhuiju-free"
+        "vanna-ai/vanna",
+        "lensapp/lens"
       ]
     },
     {
