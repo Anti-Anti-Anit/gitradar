@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="theme-color" content="#060810" />
+    <meta name="description" content="GitRadar 星探 —— 自动发现 GitHub 高星项目：每日趋势榜、总星榜、增长榜、新星榜与中文分类导航。" />
+    <meta property="og:title" content="GitRadar · 自动发现 GitHub 高星项目" />
+    <meta property="og:description" content="每日趋势、总星榜、增长率榜、新星榜，一网打尽。" />
+    <title>GitRadar · 发现 GitHub 高星项目</title>
+    <script>
+      try {
+        var t = localStorage.getItem('radar-theme')
+        if (t === 'light') document.documentElement.classList.remove('dark')
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,105 @@
+{
+  "updatedAt": "2026-10-29T11:47:49.783Z",
+  "languages": [
+    {
+      "name": "Python",
+      "count": 125,
+      "stars": 9586912
+    },
+    {
+      "name": "TypeScript",
+      "count": 104,
+      "stars": 7270920
+    },
+    {
+      "name": "Go",
+      "count": 63,
+      "stars": 2706553
+    },
+    {
+      "name": "JavaScript",
+      "count": 56,
+      "stars": 3357497
+    },
+    {
+      "name": "Rust",
+      "count": 52,
+      "stars": 2395686
+    },
+    {
+      "name": "C++",
+      "count": 32,
+      "stars": 1368839
+    },
+    {
+      "name": "Dart",
+      "count": 25,
+      "stars": 816215
+    },
+    {
+      "name": "C",
+      "count": 14,
+      "stars": 902271
+    },
+    {
+      "name": "Shell",
+      "count": 11,
+      "stars": 1245538
+    },
+    {
+      "name": "Jupyter Notebook",
+      "count": 11,
+      "stars": 731880
+    },
+    {
+      "name": "HTML",
+      "count": 9,
+      "stars": 713365
+    },
+    {
+      "name": "Java",
+      "count": 8,
+      "stars": 413872
+    },
+    {
+      "name": "C#",
+      "count": 8,
+      "stars": 226442
+    },
+    {
+      "name": "Markdown",
+      "count": 5,
+      "stars": 926131
+    },
+    {
+      "name": "Swift",
+      "count": 5,
+      "stars": 233576
+    },
+    {
+      "name": "PHP",
+      "count": 4,
+      "stars": 91065
+    },
+    {
+      "name": "Kotlin",
+      "count": 3,
+      "stars": 79191
+    },
+    {
+      "name": "CSS",
+      "count": 2,
+      "stars": 61422
+    },
+    {
+      "name": "Haskell",
+      "count": 2,
+      "stars": 67994
+    },
+    {
+      "name": "Batchfile",
+      "count": 1,
+      "stars": 196766
+    }
+  ]
+}
