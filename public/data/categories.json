@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T07:20:11.414Z",
+  "updatedAt": "2026-10-30T13:16:49.716Z",
   "categories": [
     {
       "id": "ai",
@@ -486,9 +486,9 @@
         "vercel/hyper",
         "PatrickJS/awesome-cursorrules",
         "drawdb-io/drawdb",
+        "lightpanda-io/browser",
         "alebcay/awesome-shell",
-        "gitleaks/gitleaks",
-        "reflex-dev/reflex"
+        "gitleaks/gitleaks"
       ]
     },
     {
@@ -677,7 +677,6 @@
         "dkhamsing/open-source-ios-apps",
         "boykopovar/AnyPS5",
         "vercel/hyper",
-        "Donchitos/Claude-Code-Game-Studios",
         "digitalocean/nginxconfig.io",
         "clockworklabs/SpacetimeDB",
         "img2threejs/img2threejs",
@@ -821,7 +820,8 @@
         "community-scripts/ProxmoxVE",
         "peach-mitao/peach",
         "jub0t/Concat",
-        "milind-soni/OpenMausBot"
+        "milind-soni/OpenMausBot",
+        "macro-inc/macro"
       ]
     }
   ]
