@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:16:49.716Z",
+  "updatedAt": "2026-10-30T19:05:03.820Z",
   "date": "2026-10-30",
   "fallbackWindows": [],
   "daily": [
@@ -29,7 +29,7 @@
     },
     {
       "full_name": "macro-inc/macro",
-      "gain": 379
+      "gain": 117
     },
     {
       "full_name": "mattpocock/skills",

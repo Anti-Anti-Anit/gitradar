@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:16:49.716Z",
+  "updatedAt": "2026-10-30T19:05:03.820Z",
   "categories": [
     {
       "id": "ai",
@@ -179,8 +179,8 @@
         "metalbear-co/mirrord",
         "readysettech/readyset",
         "cheatsnake/backend-cheats",
-        "prest/prest",
         "Fractal-Compute-Orchestrations/FractalCore",
+        "prest/prest",
         "hoodiehq/hoodie",
         "goldbergyoni/nodejs-testing-best-practices",
         "apache/lucene-solr",
