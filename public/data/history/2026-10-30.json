@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-30",
+  "fallbackWindows": [],
+  "daily": [
+    {
+      "full_name": "HKUDS/DeepTutor",
+      "gain": 1930
+    },
+    {
+      "full_name": "obra/superpowers",
+      "gain": 1034
+    },
+    {
+      "full_name": "pbakaus/impeccable",
+      "gain": 2870
+    },
+    {
+      "full_name": "JetBrains/thinkrail",
+      "gain": 1117
+    },
+    {
+      "full_name": "milind-soni/OpenMausBot",
+      "gain": 1199
+    },
+    {
+      "full_name": "nightly-labs/openbot",
+      "gain": 709
+    },
+    {
+      "full_name": "elayadesign/ai-design-skills",
+      "gain": 1187
+    },
+    {
+      "full_name": "thedotmack/claude-mem",
+      "gain": 336
+    },
+    {
+      "full_name": "CopilotKit/OpenBot",
+      "gain": 247
+    },
+    {
+      "full_name": "togg53192-cmd/jailbreaks",
+      "gain": 1594
+    },
+    {
+      "full_name": "Donchitos/Claude-Code-Game-Studios",
+      "gain": 353
+    }
+  ],
+  "weekly": [
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "gain": 14320
+    },
+    {
+      "full_name": "php/php-src",
+      "gain": 960
+    },
+    {
+      "full_name": "AgriciDaniel/claude-seo",
+      "gain": 4110
+    },
+    {
+      "full_name": "pbakaus/impeccable",
+      "gain": 9713
+    },
+    {
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "gain": 4250
+    },
+    {
+      "full_name": "TauricResearch/TradingAgents",
+      "gain": 5557
+    },
+    {
+      "full_name": "hugohe3/ppt-master",
+      "gain": 4980
+    },
+    {
+      "full_name": "obra/superpowers",
+      "gain": 4894
+    },
+    {
+      "full_name": "anthropics/knowledge-work-plugins",
+      "gain": 2504
+    },
+    {
+      "full_name": "Leonxlnx/taste-skill",
+      "gain": 4359
+    },
+    {
+      "full_name": "jakubkrehel/skills",
+      "gain": 980
+    },
+    {
+      "full_name": "ruvnet/ruflo",
+      "gain": 1854
+    }
+  ],
+  "monthly": [
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "gain": 29622
+    },
+    {
+      "full_name": "heygen-com/hyperframes",
+      "gain": 21520
+    },
+    {
+      "full_name": "anthropics/knowledge-work-plugins",
+      "gain": 8086
+    },
+    {
+      "full_name": "earthtojake/text-to-cad",
+      "gain": 7732
+    },
+    {
+      "full_name": "pbakaus/impeccable",
+      "gain": 22473
+    },
+    {
+      "full_name": "debpalash/VoiceStudio",
+      "gain": 47778
+    },
+    {
+      "full_name": "anthropics/claude-plugins-official",
+      "gain": 8277
+    },
+    {
+      "full_name": "mksglu/context-mode",
+      "gain": 8800
+    },
+    {
+      "full_name": "cursor/plugins",
+      "gain": 5677
+    },
+    {
+      "full_name": "thedotmack/claude-mem",
+      "gain": 9911
+    },
+    {
+      "full_name": "Nutlope/hallmark",
+      "gain": 12501
+    },
+    {
+      "full_name": "NationalSecurityAgency/ghidra",
+      "gain": 16113
+    },
+    {
+      "full_name": "pingdotgg/t3code",
+      "gain": 7708
+    },
+    {
+      "full_name": "flutter/flutter",
+      "gain": 1993
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "gain": 24663
+    },
+    {
+      "full_name": "Leonxlnx/taste-skill",
+      "gain": 14568
+    },
+    {
+      "full_name": "Panniantong/Agent-Reach",
+      "gain": 20593
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "gain": 33063
+    },
+    {
+      "full_name": "tashfeenahmed/freellmapi",
+      "gain": 14488
+    }
+  ]
+}

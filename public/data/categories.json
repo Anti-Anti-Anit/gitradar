@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T19:11:51.543Z",
+  "updatedAt": "2026-10-30T01:22:24.066Z",
   "categories": [
     {
       "id": "ai",
@@ -48,7 +48,7 @@
         "ZhuLinsen/daily_stock_analysis",
         "upstash/context7",
         "sansan0/TrendRadar",
-        "BerriAI/litellm",
+        "blader/humanizer",
         "obra/superpowers",
         "deepseek-ai/deepseek-harness",
         "n8n-io/n8n",
@@ -248,8 +248,8 @@
         "authelia/authelia",
         "yeasy/docker_practice",
         "openfaas/faas",
-        "dapr/dapr",
         "goauthentik/authentik",
+        "dapr/dapr",
         "rancher/rancher",
         "pulumi/pulumi",
         "cilium/cilium",
@@ -803,8 +803,8 @@
         "onyx-dot-app/onyx",
         "vxcontrol/pentagi",
         "SigNoz/signoz",
-        "feder-cr/invisible_dots",
         "Zackriya-Solutions/meetily",
+        "feder-cr/invisible_dots",
         "dokku/dokku",
         "karakeep-app/karakeep",
         "affaan-m/ECC",
