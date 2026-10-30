@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T01:22:24.066Z",
+  "updatedAt": "2026-10-30T07:20:11.414Z",
   "date": "2026-10-30",
   "fallbackWindows": [],
   "daily": [
@@ -72,10 +72,6 @@
     {
       "full_name": "TauricResearch/TradingAgents",
       "gain": 5557
-    },
-    {
-      "full_name": "hugohe3/ppt-master",
-      "gain": 4980
     },
     {
       "full_name": "obra/superpowers",

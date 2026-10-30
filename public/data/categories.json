@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T01:22:24.066Z",
+  "updatedAt": "2026-10-30T07:20:11.414Z",
   "categories": [
     {
       "id": "ai",
@@ -339,8 +339,8 @@
         "gogs/gogs",
         "fastapi/full-stack-fastapi-template",
         "payloadcms/payload",
-        "meteor/meteor",
         "DataExpert-io/data-engineer-handbook",
+        "meteor/meteor",
         "ashishps1/awesome-system-design-resources",
         "Dokploy/dokploy",
         "mouredev/Hello-Python",
