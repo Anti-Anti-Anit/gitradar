@@ -1,105 +1,105 @@
 {
-  "updatedAt": "2026-10-30T19:05:03.820Z",
+  "updatedAt": "2026-10-31T01:20:48.466Z",
   "languages": [
     {
       "name": "Python",
-      "count": 132,
-      "stars": 9977166
+      "count": 134,
+      "stars": 10003393
     },
     {
       "name": "TypeScript",
       "count": 103,
-      "stars": 7329441
+      "stars": 7332820
     },
     {
       "name": "Go",
       "count": 64,
-      "stars": 2718678
+      "stars": 2719066
     },
     {
       "name": "JavaScript",
-      "count": 56,
-      "stars": 3369175
+      "count": 55,
+      "stars": 3360403
     },
     {
       "name": "Rust",
       "count": 53,
-      "stars": 2409671
+      "stars": 2410924
     },
     {
       "name": "C++",
       "count": 32,
-      "stars": 1370547
+      "stars": 1370809
     },
     {
       "name": "Dart",
       "count": 25,
-      "stars": 817499
+      "stars": 817601
     },
     {
       "name": "C",
       "count": 14,
-      "stars": 909686
+      "stars": 909909
     },
     {
       "name": "Shell",
       "count": 11,
-      "stars": 1223832
+      "stars": 1224298
     },
     {
       "name": "HTML",
       "count": 10,
-      "stars": 724762
+      "stars": 724923
     },
     {
       "name": "Jupyter Notebook",
       "count": 10,
-      "stars": 717320
+      "stars": 717385
     },
     {
       "name": "C#",
       "count": 9,
-      "stars": 274303
+      "stars": 274437
     },
     {
       "name": "Java",
-      "count": 8,
-      "stars": 414485
+      "count": 7,
+      "stars": 282791
+    },
+    {
+      "name": "Swift",
+      "count": 6,
+      "stars": 366295
     },
     {
       "name": "Markdown",
       "count": 5,
-      "stars": 927022
-    },
-    {
-      "name": "Swift",
-      "count": 5,
-      "stars": 234405
+      "stars": 927178
     },
     {
       "name": "PHP",
       "count": 4,
-      "stars": 91188
+      "stars": 91207
     },
     {
       "name": "Kotlin",
       "count": 4,
-      "stars": 89896
+      "stars": 89984
     },
     {
       "name": "CSS",
       "count": 2,
-      "stars": 62834
+      "stars": 63040
     },
     {
       "name": "Haskell",
       "count": 2,
-      "stars": 67998
+      "stars": 67999
     },
     {
       "name": "Batchfile",
       "count": 1,
-      "stars": 196980
+      "stars": 197006
     }
   ]
 }

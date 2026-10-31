@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T19:05:03.820Z",
+  "updatedAt": "2026-10-31T01:20:48.466Z",
   "categories": [
     {
       "id": "ai",
@@ -511,8 +511,8 @@
         "GyulyVGC/sniffnet",
         "The-Vibe-Company/quivr",
         "aquasecurity/trivy",
-        "lissy93/web-check",
         "mukul975/Anthropic-Cybersecurity-Skills",
+        "lissy93/web-check",
         "OWASP/CheatSheetSeries",
         "projectdiscovery/nuclei",
         "nginx/nginx",
