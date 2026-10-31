@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T01:20:48.466Z",
+  "updatedAt": "2026-10-31T07:15:07.699Z",
   "categories": [
     {
       "id": "ai",
@@ -39,8 +39,8 @@
         "shareAI-lab/learn-claude-code",
         "unslothai/unsloth",
         "headroomlabs-ai/headroom",
-        "hiyouga/LlamaFactory",
         "rohitg00/ai-engineering-from-scratch",
+        "hiyouga/LlamaFactory",
         "FoundationAgents/MetaGPT",
         "asgeirtj/system_prompts_leaks",
         "mem0ai/mem0",
@@ -65,8 +65,8 @@
         "shadcn-ui/ui",
         "microsoft/generative-ai-for-beginners",
         "Panniantong/Agent-Reach",
-        "Leonxlnx/taste-skill",
         "thedotmack/claude-mem",
+        "Leonxlnx/taste-skill",
         "ruvnet/RuView",
         "pbakaus/impeccable"
       ]
@@ -175,8 +175,8 @@
         "techschool/simplebank",
         "amitshekhariitbhu/go-backend-clean-architecture",
         "liyupi/mianshiya",
-        "agentejo/cockpit",
         "metalbear-co/mirrord",
+        "agentejo/cockpit",
         "readysettech/readyset",
         "cheatsnake/backend-cheats",
         "Fractal-Compute-Orchestrations/FractalCore",
@@ -395,8 +395,8 @@
         "RunanywhereAI/runanywhere-sdks",
         "nhost/nhost",
         "firebase/flutterfire",
-        "kaina404/FlutterDouBan",
         "Anxcye/anx-reader",
+        "kaina404/FlutterDouBan",
         "galaxy-s10/billd-desk",
         "brianegan/flutter_architecture_samples",
         "Genymobile/scrcpy",
