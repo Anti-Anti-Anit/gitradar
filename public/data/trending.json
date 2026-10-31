@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-10-31T07:15:07.699Z",
+  "updatedAt": "2026-10-31T13:08:42.566Z",
   "date": "2026-10-31",
   "fallbackWindows": [],
   "daily": [
     {
       "full_name": "thedotmack/claude-mem",
-      "gain": 1140
-    },
-    {
-      "full_name": "milind-soni/OpenMausBot",
-      "gain": 895
-    },
-    {
-      "full_name": "pbakaus/impeccable",
-      "gain": 2300
-    },
-    {
-      "full_name": "CopilotKit/OpenBot",
-      "gain": 706
-    },
-    {
-      "full_name": "Renhuai123/ziwei-doushu",
-      "gain": 1126
-    },
-    {
-      "full_name": "expo/skills",
-      "gain": 38
-    },
-    {
-      "full_name": "macro-inc/macro",
-      "gain": 57
+      "gain": 1723
     },
     {
       "full_name": "mattpocock/skills",
-      "gain": 876
+      "gain": 882
+    },
+    {
+      "full_name": "Donchitos/Claude-Code-Game-Studios",
+      "gain": 1347
     },
     {
       "full_name": "pingdotgg/t3code",
-      "gain": 930
+      "gain": 1148
     },
     {
-      "full_name": "HKUDS/DeepTutor",
-      "gain": 2282
+      "full_name": "Renhuai123/ziwei-doushu",
+      "gain": 1093
     },
     {
-      "full_name": "anthropics/skills",
-      "gain": 295
+      "full_name": "milind-soni/OpenMausBot",
+      "gain": 1304
     },
     {
-      "full_name": "JetBrains/thinkrail",
-      "gain": 722
-    },
-    {
-      "full_name": "togg53192-cmd/jailbreaks",
-      "gain": 2055
+      "full_name": "pbakaus/impeccable",
+      "gain": 1339
     },
     {
       "full_name": "obra/superpowers",
-      "gain": 1259
+      "gain": 663
     },
     {
       "full_name": "lightpanda-io/browser",
-      "gain": 626
+      "gain": 929
+    },
+    {
+      "full_name": "HKUDS/DeepTutor",
+      "gain": 1035
+    },
+    {
+      "full_name": "Orkas-AI/Orkas",
+      "gain": 1004
+    },
+    {
+      "full_name": "THU-MAIC/OpenMAIC",
+      "gain": 115
+    },
+    {
+      "full_name": "bregman-arie/devops-exercises",
+      "gain": 341
+    },
+    {
+      "full_name": "vorssaint/vorssaint-utils",
+      "gain": 499
     }
   ],
   "weekly": [
+    {
+      "full_name": "Nutlope/hallmark",
+      "gain": 11766
+    },
     {
       "full_name": "cloudflare/security-audit-skill",
       "gain": 12838
@@ -82,40 +82,44 @@
       "gain": 5474
     },
     {
-      "full_name": "TauricResearch/TradingAgents",
-      "gain": 5490
-    },
-    {
       "full_name": "multica-ai/andrej-karpathy-skills",
       "gain": 4178
     },
     {
-      "full_name": "Leonxlnx/taste-skill",
-      "gain": 4712
+      "full_name": "TauricResearch/TradingAgents",
+      "gain": 5490
     },
     {
       "full_name": "jakubkrehel/skills",
       "gain": 1107
     },
     {
+      "full_name": "Leonxlnx/taste-skill",
+      "gain": 4712
+    },
+    {
       "full_name": "pingdotgg/t3code",
       "gain": 2775
     },
     {
-      "full_name": "anthropics/knowledge-work-plugins",
-      "gain": 2083
-    },
-    {
-      "full_name": "affaan-m/ECC",
-      "gain": 6506
+      "full_name": "thedotmack/claude-mem",
+      "gain": 3518
     },
     {
       "full_name": "anthropics/skills",
       "gain": 1888
     },
     {
-      "full_name": "ruvnet/ruflo",
-      "gain": 1723
+      "full_name": "affaan-m/ECC",
+      "gain": 6506
+    },
+    {
+      "full_name": "YuJunZhiXue/dsh-purge",
+      "gain": 6665
+    },
+    {
+      "full_name": "AstrBotDevs/AstrBot",
+      "gain": 2133
     }
   ],
   "monthly": [
@@ -128,52 +132,52 @@
       "gain": 22149
     },
     {
-      "full_name": "anthropics/knowledge-work-plugins",
-      "gain": 8279
+      "full_name": "Nutlope/hallmark",
+      "gain": 13397
     },
     {
-      "full_name": "pbakaus/impeccable",
-      "gain": 24624
+      "full_name": "anthropics/knowledge-work-plugins",
+      "gain": 8279
     },
     {
       "full_name": "debpalash/VoiceStudio",
       "gain": 49116
     },
     {
+      "full_name": "pbakaus/impeccable",
+      "gain": 24624
+    },
+    {
       "full_name": "earthtojake/text-to-cad",
       "gain": 7976
     },
     {
-      "full_name": "Nutlope/hallmark",
-      "gain": 13397
-    },
-    {
-      "full_name": "mvschwarz/openrig",
-      "gain": 6245
-    },
-    {
-      "full_name": "anthropics/claude-plugins-official",
-      "gain": 8442
-    },
-    {
-      "full_name": "thedotmack/claude-mem",
-      "gain": 11124
-    },
-    {
-      "full_name": "mksglu/context-mode",
-      "gain": 8913
+      "full_name": "NationalSecurityAgency/ghidra",
+      "gain": 16470
     },
     {
       "full_name": "pingdotgg/t3code",
       "gain": 8676
     },
     {
-      "full_name": "cursor/plugins",
-      "gain": 5817
+      "full_name": "thedotmack/claude-mem",
+      "gain": 11124
     },
     {
-      "full_name": "NationalSecurityAgency/ghidra",
-      "gain": 16470
+      "full_name": "anthropics/claude-plugins-official",
+      "gain": 8442
+    },
+    {
+      "full_name": "mksglu/context-mode",
+      "gain": 8913
+    },
+    {
+      "full_name": "mvschwarz/openrig",
+      "gain": 6245
+    },
+    {
+      "full_name": "cursor/plugins",
+      "gain": 5817
     },
     {
       "full_name": "Leonxlnx/taste-skill",
@@ -184,28 +188,16 @@
       "gain": 2145
     },
     {
+      "full_name": "android/skills",
+      "gain": 2506
+    },
+    {
       "full_name": "affaan-m/ECC",
       "gain": 25494
     },
     {
       "full_name": "AgriciDaniel/claude-seo",
       "gain": 6415
-    },
-    {
-      "full_name": "android/skills",
-      "gain": 2506
-    },
-    {
-      "full_name": "Panniantong/Agent-Reach",
-      "gain": 21207
-    },
-    {
-      "full_name": "vercel-labs/skills",
-      "gain": 4626
-    },
-    {
-      "full_name": "tashfeenahmed/freellmapi",
-      "gain": 15157
     }
   ]
 }

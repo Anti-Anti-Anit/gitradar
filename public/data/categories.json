@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T07:15:07.699Z",
+  "updatedAt": "2026-10-31T13:08:42.566Z",
   "categories": [
     {
       "id": "ai",
@@ -9,7 +9,6 @@
       "color": "#a78bfa",
       "desc": "大模型、Agent、RAG 与推理训练框架",
       "repos": [
-        "morluto/rea",
         "affaan-m/ECC",
         "NousResearch/hermes-agent",
         "firecrawl/firecrawl",
@@ -49,6 +48,8 @@
         "upstash/context7",
         "sansan0/TrendRadar",
         "blader/humanizer",
+        "BerriAI/litellm",
+        "morluto/rea",
         "obra/superpowers",
         "deepseek-ai/deepseek-harness",
         "n8n-io/n8n",
@@ -64,7 +65,6 @@
         "nextlevelbuilder/ui-ux-pro-max-skill",
         "shadcn-ui/ui",
         "microsoft/generative-ai-for-beginners",
-        "Panniantong/Agent-Reach",
         "thedotmack/claude-mem",
         "Leonxlnx/taste-skill",
         "ruvnet/RuView",
@@ -80,6 +80,7 @@
       "desc": "框架、构建工具、组件库与动效",
       "repos": [
         "freeCodeCamp/freeCodeCamp",
+        "morluto/rea",
         "react/react",
         "vercel/next.js",
         "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -118,7 +119,6 @@
         "reactive-resume/reactive-resume",
         "sudheerj/reactjs-interview-questions",
         "meteor/meteor",
-        "vercel/hyper",
         "donnemartin/system-design-primer",
         "nilbuild/developer-roadmap",
         "vuejs/vue",
@@ -276,9 +276,9 @@
         "gogs/gogs",
         "docker/awesome-compose",
         "fastapi/full-stack-fastapi-template",
+        "AstrBotDevs/AstrBot",
         "GyulyVGC/sniffnet",
-        "pingcap/tidb",
-        "The-Vibe-Company/quivr"
+        "pingcap/tidb"
       ]
     },
     {
@@ -399,6 +399,7 @@
         "kaina404/FlutterDouBan",
         "galaxy-s10/billd-desk",
         "brianegan/flutter_architecture_samples",
+        "morluto/rea",
         "Genymobile/scrcpy",
         "nextlevelbuilder/ui-ux-pro-max-skill",
         "react/react-native",
@@ -417,8 +418,7 @@
         "SheetJS/sheetjs",
         "raysan5/raylib",
         "vorssaint/vorssaint-utils",
-        "karakeep-app/karakeep",
-        "libgdx/libgdx"
+        "karakeep-app/karakeep"
       ]
     },
     {
@@ -429,7 +429,6 @@
       "color": "#22d3ee",
       "desc": "CLI、编辑器、终端与效率神器",
       "repos": [
-        "morluto/rea",
         "affaan-m/ECC",
         "DietrichGebert/ponytail",
         "Graphify-Labs/graphify",
@@ -469,6 +468,8 @@
         "DevToys-app/DevToys",
         "GoogleChrome/lighthouse",
         "ComposioHQ/composio",
+        "yamadashy/repomix",
+        "morluto/rea",
         "n8n-io/n8n",
         "yt-dlp/yt-dlp",
         "microsoft/vscode",
@@ -476,19 +477,18 @@
         "airbnb/javascript",
         "nextlevelbuilder/ui-ux-pro-max-skill",
         "browser-use/browser-use",
-        "Panniantong/Agent-Reach",
         "Stirling-Tools/Stirling-PDF",
         "unclecode/crawl4ai",
         "heygen-com/hyperframes",
         "storytold/photocraft",
         "prisma/orm",
         "fastapi/full-stack-fastapi-template",
-        "vercel/hyper",
         "PatrickJS/awesome-cursorrules",
         "drawdb-io/drawdb",
         "lightpanda-io/browser",
         "alebcay/awesome-shell",
-        "gitleaks/gitleaks"
+        "gitleaks/gitleaks",
+        "reflex-dev/reflex"
       ]
     },
     {
@@ -499,6 +499,7 @@
       "color": "#f87171",
       "desc": "渗透测试、逆向工程与漏洞研究",
       "repos": [
+        "morluto/rea",
         "trimstray/the-book-of-secret-knowledge",
         "Hack-with-Github/Awesome-Hacking",
         "Developer-Y/cs-video-courses",
@@ -538,8 +539,6 @@
         "shieldfy/API-Security-Checklist",
         "chaitin/SafeLine",
         "lissy93/personal-security-checklist",
-        "drduh/macOS-Security-and-Privacy-Guide",
-        "morluto/rea",
         "awesome-selfhosted/awesome-selfhosted",
         "NationalSecurityAgency/ghidra",
         "bilawalsidhu/gods-eye-view",
@@ -676,7 +675,7 @@
         "heygen-com/hyperframes",
         "dkhamsing/open-source-ios-apps",
         "boykopovar/AnyPS5",
-        "vercel/hyper",
+        "Donchitos/Claude-Code-Game-Studios",
         "digitalocean/nginxconfig.io",
         "clockworklabs/SpacetimeDB",
         "img2threejs/img2threejs",
@@ -821,7 +820,7 @@
         "peach-mitao/peach",
         "jub0t/Concat",
         "milind-soni/OpenMausBot",
-        "macro-inc/macro"
+        "Orkas-AI/Orkas"
       ]
     }
   ]
